@@ -1,4 +1,5 @@
 <?php
+// READ
 require_once('koneksi.php');
 $sql = "SELECT * FROM mahasiswa";
 $result = $conn->query($sql);
