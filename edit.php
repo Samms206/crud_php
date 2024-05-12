@@ -1,4 +1,5 @@
 <?php
+// UPDATE
 require_once('koneksi.php');
 
 if(isset($_GET['id_mhs'])) {
